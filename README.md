@@ -85,6 +85,5 @@ cantina-cesar/
 
 ## Vídeo
 
-Link do vídeo (até 3 minutos): **COLE AQUI**
-
+Link do vídeo (até 3 minutos): https://drive.google.com/file/d/1D1OoR2Wrse1j9Sc0OCMH_YNse0y2-zkK/view
 
