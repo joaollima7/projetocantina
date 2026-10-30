@@ -87,6 +87,4 @@ cantina-cesar/
 
 Link do vídeo (até 3 minutos): **COLE AQUI**
 
-## Sobre as entregas
 
-Esta é a Entrega 1, a versão "go-horse" feita em sala. O repositório não vai mais ser editado depois da aula de 29/10. A PoC final vai em outro repositório, até 04/11.
